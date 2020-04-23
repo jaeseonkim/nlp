@@ -1,1 +1,9 @@
 touch 1
+2
+3
+
+
+after commit
+4
+5
+6
